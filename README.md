@@ -15,5 +15,12 @@ Task:
   9.	Show step 8 in bar chart 
   10.	Print skills one by one and how many each repeated and order the output to find out the most important skills required?
     
-### we used tablesaw to deal with data and plotly to make dinamic plots
+We used **Tablesaw** to deal with data and **Plotly** to make dinamic plots
+
+Then we made a webpage to display our project
+
+## This demo shows the results
+
+
+https://user-images.githubusercontent.com/82303288/156042302-9f06807d-a41a-49b9-99d9-2375301973c9.mp4
 
